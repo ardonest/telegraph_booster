@@ -39,9 +39,9 @@ pip install -r requirements.txt
 ## 📦 Требования
 
 ```python
-requests>=2.26.0
-fake-useragent>=0.1.11
-urllib3>=1.26.7
+requests
+fake-useragent
+urllib3
 ```
 
 ## 💫 Использование
