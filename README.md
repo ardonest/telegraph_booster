@@ -109,6 +109,6 @@ retry_attempts = 2 # Количество повторов
 
 <div align="center">
 
-**Made with ❤️**
+**Made with Ardonest**
 
 </div>
